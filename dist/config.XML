@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configuration>
+	<config id="main_config">
+		<port>COM4</port>
+		<password>PASSWORD</password>
+	</config>
+</configuration>
